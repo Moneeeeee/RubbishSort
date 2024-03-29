@@ -3,9 +3,9 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
-  <component name="CMakePresetLoader"><![CDATA[{
-  "useNewFormat": true
-}]]></component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
   <component name="CMakeReloadState">
     <option name="reloaded" value="true" />
   </component>
@@ -20,18 +20,51 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e76b2a8f-42df-40ef-8459-ae8743234ec6" name="Changes" comment="" />
+    <list default="true" id="e76b2a8f-42df-40ef-8459-ae8743234ec6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Hardware/智能垃圾桶(1)(1)/42步进电机.SLDPRT" beforeDir="false" afterPath="$PROJECT_DIR$/../Hardware/智能垃圾桶(1)(1)/42步进电机.SLDPRT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardware/智能垃圾桶(1)(1)/~$42步进电机.SLDPRT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardware/智能垃圾桶(1)(1)/~$内箱体.SLDPRT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardware/智能垃圾桶(1)(1)/~$外箱体.SLDPRT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardware/智能垃圾桶(1)(1)/~$挡板.SLDPRT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardware/智能垃圾桶(1)(1)/~$滑台.SLDPRT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardware/智能垃圾桶(1)(1)/~$滑台连接板.SLDPRT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardware/智能垃圾桶(1)(1)/~$滚珠丝杠滑台.SLDPRT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardware/智能垃圾桶(1)(1)/~$装配体1.SLDASM" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardware/智能垃圾桶(1)(1)/~$转台.SLDPRT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardware/智能垃圾桶(1)(1)/~$连杆.SLDPRT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardware/智能垃圾桶(1)(1)/内箱体.SLDPRT" beforeDir="false" afterPath="$PROJECT_DIR$/../Hardware/智能垃圾桶(1)(1)/内箱体.SLDPRT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardware/智能垃圾桶(1)(1)/外箱体.SLDPRT" beforeDir="false" afterPath="$PROJECT_DIR$/../Hardware/智能垃圾桶(1)(1)/外箱体.SLDPRT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardware/智能垃圾桶(1)(1)/挡板.SLDPRT" beforeDir="false" afterPath="$PROJECT_DIR$/../Hardware/智能垃圾桶(1)(1)/挡板.SLDPRT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardware/智能垃圾桶(1)(1)/滑台.SLDPRT" beforeDir="false" afterPath="$PROJECT_DIR$/../Hardware/智能垃圾桶(1)(1)/滑台.SLDPRT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardware/智能垃圾桶(1)(1)/滑台连接板.SLDPRT" beforeDir="false" afterPath="$PROJECT_DIR$/../Hardware/智能垃圾桶(1)(1)/滑台连接板.SLDPRT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardware/智能垃圾桶(1)(1)/滚珠丝杠滑台.SLDPRT" beforeDir="false" afterPath="$PROJECT_DIR$/../Hardware/智能垃圾桶(1)(1)/滚珠丝杠滑台.SLDPRT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardware/智能垃圾桶(1)(1)/装配体1.SLDASM" beforeDir="false" afterPath="$PROJECT_DIR$/../Hardware/智能垃圾桶(1)(1)/装配体1.SLDASM" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardware/智能垃圾桶(1)(1)/转台.SLDPRT" beforeDir="false" afterPath="$PROJECT_DIR$/../Hardware/智能垃圾桶(1)(1)/转台.SLDPRT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hardware/智能垃圾桶(1)(1)/连杆.SLDPRT" beforeDir="false" afterPath="$PROJECT_DIR$/../Hardware/智能垃圾桶(1)(1)/连杆.SLDPRT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
     <option name="majorVersion" value="2023" />
     <option name="minorVersion" value="3.4" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 5
+}]]></component>
   <component name="ProjectId" id="2e1sfS9fzAZupFS21AtdCJuMz8H" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -43,18 +76,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Monee/Documents/Electronic-Design/Project/CrashRegniseK210",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "com.jetbrains.cidr.embedded.config",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="STM32.elf" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="STM32" TARGET_NAME="STM32.elf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="STM32" RUN_TARGET_NAME="STM32.elf">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -70,7 +101,11 @@
       <option name="presentableId" value="Default" />
       <updated>1711083521948</updated>
       <workItem from="1711083523076" duration="35000" />
+      <workItem from="1711713540015" duration="32000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
